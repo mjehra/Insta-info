@@ -1,0 +1,1 @@
+gunicorn insta-info:app
