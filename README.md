@@ -1,1 +1,1 @@
-gunicorn insta info API:app
+gunicorn INSTA INFO API:app
